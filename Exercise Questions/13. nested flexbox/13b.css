@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+
+.pink{
+    background-color: lightpink;
+    width: 100px;
+    
+}
+
+.blue{
+    background-color: lightblue;
+    width: 200px;
+    height: 50px;
+}
+
+.new-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    background-color: black;
+    color: white;
+}

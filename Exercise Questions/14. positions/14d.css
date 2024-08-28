@@ -1,0 +1,49 @@
+body {
+    height: 3000px;
+}
+
+.sidebar{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    top: 0;
+
+    width: 100px;
+
+    background-color: green;
+    color: white;
+}
+
+.full-page{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+    background-color: rgba(0,0,0,0.5);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal{
+    background-color: white;
+    font-family: Arial;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 400px;
+    
+    border-radius: 10px;
+}
+.title{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 14px;
+}
+.deets{
+    margin-bottom: 14px;
+}
