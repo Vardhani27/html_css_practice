@@ -1,0 +1,11 @@
+.Search{
+    width:450px;
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    border-radius: 150px;
+    border: none;
+    box-shadow: 0px 2px 20px rgba(0,0,0,0.15);
+    
+}
